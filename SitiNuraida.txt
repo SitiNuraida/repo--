@@ -2,3 +2,6 @@ Nama	: Siti Nuraida Az Zahra
 NIM	: 6701201101
 Tempat, Tanggal Lahir: Surakarta, 30 Juli 2002
 IPK	: 3.87
+
+Hobi	: Membaca dan menggambar
+Cita Cita: UI/UX Designer and Data Analyst
